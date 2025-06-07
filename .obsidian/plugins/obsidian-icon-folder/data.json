@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiKey",
       "LiQuestionMarkGlyph",
       "LiBookOpenText",
       "LiBook",
-      "LiFolder",
-      "LiNotebookPen"
+      "LiFolder"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -38,5 +38,6 @@
   "Projects": "LiHammer",
   "Topics": "LiBookOpenText",
   "README.md": "LiQuestionMarkGlyph",
-  "Permanent Notes": "LiArchive"
+  "Permanent Notes": "LiArchive",
+  "SECRETS": "LiKey"
 }
