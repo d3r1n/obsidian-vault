@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quick Capture/Better browser.md",
+                "file": "Topics/Computer Science/Git and SemVer.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Better browser"
+              "title": "Git and SemVer"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quick Capture/Better browser.md",
+                "file": "Topics/Computer Science/Git and SemVer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Better browser"
+              "title": "Backlinks for Git and SemVer"
             }
           },
           {
@@ -195,10 +195,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "53aa4c36b39d81d4",
+  "active": "b183641bfcb71b56",
   "lastOpenFiles": [
-    "Topics/Computer Science/C Learning.md",
+    "Templates",
+    "Excalidraw/Templates",
     "Quick Capture/Better browser.md",
+    "Topics/Computer Science/Git and SemVer.md",
+    "Topics/Computer Science/C Learning.md",
     "Topics/Electronics",
     "Topics/Computer Science/Rust Learning.md",
     "Projects/Konfigür/Konfigur.md",
@@ -213,7 +216,6 @@
     "_SECRETS_",
     "Projects",
     "Topics",
-    "Permanent Notes",
     "Excalidraw/Drawing 2025-06-07 04.33.05.excalidraw.md",
     "Excalidraw/Drawing 2025-06-07 04.32.36.excalidraw.md",
     "Excalidraw/Drawing 2025-06-07 04.32.30.excalidraw.md",
