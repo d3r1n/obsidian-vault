@@ -29,6 +29,20 @@ I don't want to use bunch of folders for every sub-topic in these topics, every 
 
 This folder is special because it holds my notes, sketches, Kanban boards, documents about projects I work on. Each and every project is different and these differences can be vast such as one project being about comp. sci. another one about art. So considering this, I am not going to make an effort to put a convention or rule-set for myself to follow for structuring and organizing projects. Each project will have its own folder and that will be it for the *"great-project-structure-rule-book"*.
 
+### Miscellaneous 
+
+#### Excalidraw
+
+Holds Excalidraw files so I can link, embed, etc. in my notes when I want to include a visual representation like a sketch or illustration.
+Miscalennious
+Assets
+
+General folder for images, PDFs, code and other files that are not markdown.
+
+Templates
+
+Note templates for stuff like Zettelkasten, Kanban, journaling...
+
 ## What's Next
 
 Anything and everything in this obsidian vault is a subject to change. Like the universe, only absolute truth is everything - without exception - changed, is changing or will change; change is the the universe itself.
