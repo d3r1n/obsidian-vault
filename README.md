@@ -40,7 +40,7 @@ Miscalennious
 
 General folder for images, PDFs, code and other files that are not markdown.
 
-Templates
+#### Templates
 
 Note templates for stuff like Zettelkasten, Kanban, journaling...
 
