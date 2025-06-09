@@ -35,7 +35,8 @@ This folder is special because it holds my notes, sketches, Kanban boards, docum
 
 Holds Excalidraw files so I can link, embed, etc. in my notes when I want to include a visual representation like a sketch or illustration.
 Miscalennious
-Assets
+
+#### Assets
 
 General folder for images, PDFs, code and other files that are not markdown.
 
